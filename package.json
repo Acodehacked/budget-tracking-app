@@ -1,6 +1,5 @@
 {
   "name": "budget-tracking-app",
-  "private": true,
   "version": "0.0.0",
   "homepage": "https://Acodehacked.github.io/budget-tracking-app",
   "type": "module",
